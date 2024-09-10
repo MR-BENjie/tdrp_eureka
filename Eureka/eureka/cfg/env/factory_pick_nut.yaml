@@ -1,0 +1,7 @@
+description: This class corresponds to the PickNut task. This environment requires
+  the Franka panda robot arm to grasp the nut with a parallel-jaw gripper on a 
+  work surface to made the fingertip_midpoint attach the nut. The initial location of the nut is randomized in each episode. This 
+  environment is designed to  simulate the scene of pick in daily life and is a 
+  practical skill.
+env_name: factory_task_nut_bolt_pick
+task: FactoryTaskNutBoltPick

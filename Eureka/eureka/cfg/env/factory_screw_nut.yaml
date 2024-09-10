@@ -1,0 +1,6 @@
+description: This class corresponds to the Place Nut onto the Bolt task. This environment requires
+  the Franka panda robot arm to screw down the nut in fingertip_midpoint to the bottom of the bolt. The nut is initialized on the top of a bolt placed on a table.
+  This environment is designed to  simulate the scene of screw in daily life and is a 
+  practical skill.
+env_name: factory_task_nut_bolt_screw
+task: FactoryTaskNutBoltScrew

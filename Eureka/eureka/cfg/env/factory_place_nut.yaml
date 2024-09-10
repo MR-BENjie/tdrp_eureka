@@ -1,0 +1,6 @@
+description: This class corresponds to the Place Nut onto the Bolt task. This environment requires
+  the Franka panda robot arm to transports the nut in fingertip_midpoint to the top of a bolt. The initial location of the robot is randomized and the bolt is fixed to the surface in each episode. This 
+  environment is designed to  simulate the scene of place in daily life and is a 
+  practical skill.
+env_name: factory_task_nut_bolt_place
+task: FactoryTaskNutBoltPlace
